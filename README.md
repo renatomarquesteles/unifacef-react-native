@@ -8,9 +8,9 @@ https://snack.expo.io/@renatomarques/a7eda1
 07/04: Criando menu e adicionando imagens<br/>
 https://snack.expo.io/@renatomarques/a63b90
 
-14/07: Formulários - Somar dois números<br/>
+14/04: Formulários - Somar dois números<br/>
 https://snack.expo.io/@renatomarques/14-04-parte-1<br/>
-14/07: Formulários - Calcular média do aluno<br/>
+14/04: Formulários - Calcular média do aluno<br/>
 https://snack.expo.io/@renatomarques/14-04-parte-2<br/>
-14/07: Formulários - Tarefa - Calcular IMC<br/>
+14/04: Formulários - Tarefa - Calcular IMC<br/>
 https://snack.expo.io/@renatomarques/atividade-formulários<br/>

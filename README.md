@@ -12,5 +12,5 @@ https://snack.expo.io/@renatomarques/a63b90
 https://snack.expo.io/@renatomarques/14-04-parte-1<br/>
 14/04: Formulários - Calcular média do aluno<br/>
 https://snack.expo.io/@renatomarques/14-04-parte-2<br/>
-14/04: Formulários - Tarefa - Calcular IMC<br/>
+21/04: Formulários - Tarefa - Calcular IMC<br/>
 https://snack.expo.io/@renatomarques/atividade-formulários<br/>

@@ -14,3 +14,6 @@ https://snack.expo.io/@renatomarques/14-04-parte-1<br/>
 https://snack.expo.io/@renatomarques/14-04-parte-2<br/>
 21/04: Formulários - Tarefa - Calcular IMC<br/>
 https://snack.expo.io/@renatomarques/atividade-formulários<br/>
+
+05/05: Trabalho Avaliativo I<br/>
+https://snack.expo.io/@renatomarques/avaliacao-dsdm<br/>

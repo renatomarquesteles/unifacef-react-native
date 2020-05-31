@@ -26,3 +26,6 @@ https://snack.expo.io/@renatomarques/05-05:-login<br/>
 
 12/05: Persistência de dados<br/>
 https://snack.expo.io/@renatomarques/12-05:-persistencia-de-dados<br/>
+
+19/05: Tarefa Lista de Compras<br/>
+https://snack.expo.io/@renatomarques/tarefa-lista-de-compras<br/>

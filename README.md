@@ -23,3 +23,6 @@ https://snack.expo.io/@renatomarques/avaliacao-dsdm<br/>
 
 05/05: Login<br/>
 https://snack.expo.io/@renatomarques/05-05:-login<br/>
+
+12/05: Persistência de dados<br/>
+https://snack.expo.io/@renatomarques/12-05:-persistencia-de-dados<br/>

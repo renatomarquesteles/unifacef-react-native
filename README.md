@@ -29,3 +29,9 @@ https://snack.expo.io/@renatomarques/12-05:-persistencia-de-dados<br/>
 
 19/05: Tarefa Lista de Compras<br/>
 https://snack.expo.io/@renatomarques/tarefa-lista-de-compras<br/>
+
+09/06: Lista de filmes API<br/>
+https://snack.expo.io/@renatomarques/09-06:-lista-de-filmes-api<br/>
+
+16/06: Pokémon API<br/>
+https://snack.expo.io/@renatomarques/16-06:-pokemon-api<br/>

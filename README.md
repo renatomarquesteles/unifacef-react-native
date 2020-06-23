@@ -35,3 +35,6 @@ https://snack.expo.io/@renatomarques/09-06:-lista-de-filmes-api<br/>
 
 16/06: Pokémon API<br/>
 https://snack.expo.io/@renatomarques/16-06:-pokemon-api<br/>
+
+23/06: CRUD CRUD<br/>
+https://snack.expo.io/@renatomarques/23-06:-crud<br/>
